@@ -15,9 +15,9 @@ if __name__ == "__main__":
   ldclient.set_sdk_key("sdk-3b6da147-d4a0-4fc9-89d3-28a69f806949")
 
   user = {
-    "key": "UNIQUE IDENTIFIER",
-    "firstName": "Bob",
-    "lastName": "Loblaw",
+    "key": "Unique ID",
+    "firstName": "Katrina",
+    "lastName": "Sanzi",
     "custom": {
       "groups": "beta_testers"
     }
